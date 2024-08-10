@@ -1,4 +1,4 @@
-# Poem Text Generator using LSTM
+# Text Generator using LSTM
 
 ## Description
 This project develops a Poem Text Generator using Long Short-Term Memory (LSTM) networks in Python. The system is trained on a dataset of 2400 lines of poetry and generates new poetic text based on the learned patterns. The model is built using TensorFlow and Keras, leveraging the power of LSTMs to capture the sequential nature of text.
@@ -29,14 +29,14 @@ Training Accuracy: 85%
 ### Dependencies
 The following libraries and frameworks are required to run this project:
 
-tensorflow
-keras
-numpy
-pandas
+**tensorflow**
+**keras**
+**numpy**
+**pandas**
 
 ### Installation
 To install the necessary dependencies, run the following command:
-pip install tensorflow keras numpy pandas
+'pip install tensorflow keras numpy pandas'
 
 ### Results
 The trained model is capable of generating poetic text that reflects the style and structure of the input dataset. The generated text has an accuracy of 85%, showing its ability to capture the essence of the training data.
