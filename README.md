@@ -40,9 +40,9 @@ To install the necessary dependencies, run the following command:
 
 ```bash
 pip install tensorflow keras numpy pandas
+```
 
-## Results
-
+ ### Results
 The trained model is capable of generating poetic text that reflects the style and structure of the input dataset. The generated text has an accuracy of 85%, showing its ability to capture the essence of the training data.
 
 
