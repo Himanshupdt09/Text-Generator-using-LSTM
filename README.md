@@ -29,10 +29,10 @@ Training Accuracy: 85%
 ### Dependencies
 The following libraries and frameworks are required to run this project:
 
-**tensorflow**
-**keras**
-**numpy**
-**pandas**
+-**tensorflow**
+-**keras**
+-**numpy**
+-**pandas**
 
 ### Installation
 To install the necessary dependencies, run the following command:
