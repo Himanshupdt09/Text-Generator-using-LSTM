@@ -26,17 +26,19 @@ The model is built using an LSTM architecture, which is well-suited for handling
 ### Performance
 Training Accuracy: 85%
 
-### Dependencies
+## Dependencies
 The following libraries and frameworks are required to run this project:
+- `numpy`
+- `tensorflow`
+- `keras`
+- `matplotlib`
+- `pandas`
 
--**tensorflow**
--**keras**
--**numpy**
--**pandas**
-
-### Installation
+## Installation
 To install the necessary dependencies, run the following command:
-'pip install tensorflow keras numpy pandas'
+```bash
+pip install tensorflow keras numpy pandas
+
 
 ### Results
 The trained model is capable of generating poetic text that reflects the style and structure of the input dataset. The generated text has an accuracy of 85%, showing its ability to capture the essence of the training data.
